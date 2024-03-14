@@ -5,17 +5,11 @@
 
 # # Business Problems and data understanding
 # ## Objective:
-# The objective of this project is to build a classification model to predict whether a candidate will be placed or not based on various features provided in the dataset. The model will help in understanding the factors affecting placement status and assist in making informed decisions during the placement process.
+# Predict the likelihood of campus placement success for students based on their academic performance, background, and other relevant factors.
 # 
 # ## Constraints:
-# 
-# The model's predictions should be accurate and reliable to assist in making placement decisions effectively.
-# The model should be interpretable to understand the impact of different features on the placement status.
-# The model should handle missing values appropriately to avoid bias in predictions.
-# The model should avoid overfitting by selecting relevant features and using appropriate techniques for model evaluation.
-# The model should be scalable and adaptable to accommodate new data and changes in the placement process over time.
-# The model's performance should be evaluated using standard evaluation metrics such as accuracy, precision, recall, and F1-score to ensure its effectiveness.
-
+# Optimize the performance of the predictive models in terms of accuracy, precision, recall, and other relevant evaluation metrics to ensure reliable predictions and actionable insights for campus placement management.
+#
 # In[43]:
 
 
